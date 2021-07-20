@@ -1,0 +1,6 @@
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqLite\bin\Debug\eAgenda.Database.SqLite.dll
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqLite\bin\Debug\eAgenda.Database.SqLite.pdb
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqLite\obj\Debug\eAgenda.Database.SqLite.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqLite\obj\Debug\eAgenda.Database.SqLite.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqLite\obj\Debug\eAgenda.Database.SqLite.dll
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqLite\obj\Debug\eAgenda.Database.SqLite.pdb

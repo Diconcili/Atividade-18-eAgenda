@@ -1,0 +1,6 @@
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqlServer\bin\Debug\eAgenda.Database.SqlServer.dacpac
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqlServer\bin\Debug\eAgenda.Database.dll
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqlServer\bin\Debug\eAgenda.Database.pdb
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqlServer\obj\Debug\eAgenda.Database.SqlServer.sqlproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqlServer\obj\Debug\eAgenda.Database.dll
+C:\Users\eduar\source\repos\e-Agenda-master\eAgenda.Database.SqlServer\obj\Debug\eAgenda.Database.pdb

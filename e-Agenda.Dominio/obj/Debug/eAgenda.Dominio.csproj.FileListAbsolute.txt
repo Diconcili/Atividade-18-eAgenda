@@ -1,0 +1,10 @@
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\bin\Debug\eAgenda.Dominio.dll
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\bin\Debug\eAgenda.Dominio.pdb
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\bin\Debug\Description.dll
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\bin\Debug\Description.pdb
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\bin\Debug\Description.xml
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\obj\Debug\eAgenda.Dominio.csproj.AssemblyReference.cache
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\obj\Debug\eAgenda.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\obj\Debug\eAgenda.Dominio.csproj.CopyComplete
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\obj\Debug\eAgenda.Dominio.dll
+C:\Users\eduar\source\repos\e-Agenda-master\e-Agenda.Dominio\obj\Debug\eAgenda.Dominio.pdb
